@@ -44,4 +44,4 @@ A aplicação conecta-se ao servidor local MySQL na porta padrão `3306`.
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone [https://github.com/MarcosMatheus24/SistemaRH/tree/main)
